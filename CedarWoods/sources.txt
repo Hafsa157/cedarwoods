@@ -1,0 +1,11 @@
+src/main/java/uk/ac/uwe/cedarwoods/CedarWoodsGUI.java
+src/main/java/uk/ac/uwe/cedarwoods/ConsoleOnlyApp.java
+src/main/java/uk/ac/uwe/cedarwoods/system/CedarWoodsAccommodationSystem.java
+src/main/java/uk/ac/uwe/cedarwoods/Main.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Status.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Yurt.java
+src/main/java/uk/ac/uwe/cedarwoods/model/GeodesicDome.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Area.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Accommodation.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Cabin.java
+src/main/java/uk/ac/uwe/cedarwoods/model/Airstream.java
